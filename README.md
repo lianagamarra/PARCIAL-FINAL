@@ -328,13 +328,4 @@ Graba un video corto (2–5 minutos) mostrando:
 
 **Enlace al video: https://www.youtube.com/watch?v=VjpGmn5sM5g** 
 
-## Autor
-
-* **Nombre:** \[Tu nombre]
-* **Curso:** Web II
-* **Institución:** \[Tu institución]
-
-## Licencia
-
-Proyecto académico — uso educativo.
 
